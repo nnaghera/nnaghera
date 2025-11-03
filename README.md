@@ -21,7 +21,6 @@ Experienced Software Engineer with 5 years in product-based development, special
 ### AI/ML & Tools
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -49,7 +48,6 @@ Experienced Software Engineer with 5 years in product-based development, special
 - Building scalable full-stack applications
 - Exploring AI/ML integration with LangChain and MCP
 - Implementing Clean Architecture patterns
-- Contributing to open-source projects
 
 ---
 
